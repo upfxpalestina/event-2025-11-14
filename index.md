@@ -16,4 +16,4 @@ Purchase the book:<br>
 <br>
 
 Download Poster:<br>
-<a href="upf4pal_bookfair_bhtto_2025_11_14.jpg"><img src="upf4pal_bookfair_bhutto_2025_11_14.png" alt="poster" style="width:200px;"/></a>
+<a href="upf4pal_bookfair_bhutto_2025_11_14.jpg"><img src="upf4pal_bookfair_bhutto_2025_11_14.png" alt="poster" style="width:200px;"/></a>

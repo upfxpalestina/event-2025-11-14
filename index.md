@@ -6,7 +6,7 @@
 **Ciutadella Campus**<br>
 **Universitat Pompeu Fabra**
 
-Hosted by the [UPF in Solidarity with Palestine collective](https://upfxpalestina.github.io), the [Red Universitaria por Palestina (RUxP)](https://www.redxpalestina.org), the [Research Group on Gender and Inequalities (GRETA)](https://www.upf.edu/web/greta), and the [Research Group on Health Inequalities, Environment - Employment Conditions Network (GREDS-EMCONET)](https://www.upf.edu/web/greds-emconet).
+Hosted by the [UPF in Solidarity with Palestine collective](https://upfxpalestina.github.io), the [Red Universitaria por Palestina (RUxP)](https://www.redxpalestina.org), and the [UPF Faculty of Political and Social Sciences](https://www.upf.edu/en/web/politiques/home).
 
 Directions to the building: [https://www.upf.edu/en/web/campus/merce-rodoreda](https://www.upf.edu/en/web/campus/merce-rodoreda)<br>
 

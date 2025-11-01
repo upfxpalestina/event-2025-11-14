@@ -11,7 +11,7 @@ Hosted by the [UPF in Solidarity with Palestine collective](https://upfxpalestin
 Directions to the building: [https://www.upf.edu/en/web/campus/merce-rodoreda](https://www.upf.edu/en/web/campus/merce-rodoreda)<br>
 
 Purchase the book:<br>
-<a href="https://www.versobooks.com/en-gb/products/3511-gaza"><img src="book_cover.jpg" alt="book cover" style="width:200px;"/></a>
+<a href="https://www.versobooks.com/en-gb/products/3511-gaza"><img src="book_cover.png" alt="book cover" style="width:200px;"/></a>
 
 <br>
 

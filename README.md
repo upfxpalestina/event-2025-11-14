@@ -7,7 +7,7 @@
 **Ahmed Masoud**<br>
 
 
-**Friday, 14 November 2025, at 18:00**
+**Friday, 14 November 2025, at 17:00**
 
 **Sala Polivalent**<br>
 **Ciutadella Campus**<br>

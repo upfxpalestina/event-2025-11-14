@@ -1,6 +1,6 @@
 **A book talk by Fatima Bhutto, Ahmed Alnaouq, and Ahmed Masoud**
 
-**Friday, 14 November 2025, at 18:00**<br>
+**Friday, 14 November 2025, at 17:00**<br>
 
 **Sala Polivalent** (Located in the [Mercè Rodoreda building](https://www.upf.edu/en/web/campus/merce-rodoreda))<br>
 **Ciutadella Campus**<br>

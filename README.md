@@ -2,7 +2,7 @@
 
 **Fatima Bhutto**<br>
 
-**Ahmed Alnaoug**<br>
+**Ahmed Alnaouq**<br>
 
 **Ahmed Masoud**<br>
 

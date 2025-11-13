@@ -14,4 +14,4 @@
 **Universitat Pompeu Fabra**
 
 
-Hosted by the UPF in Solidarity with Palestine collective and the Red Universitaria por Palestina (RUxP).
+Hosted by the UPF in Solidarity with Palestine collective and the Red Universitaria por Palestina (RUxP) with support from UPF and the UPF Faculty of Political and Social Scienecs.

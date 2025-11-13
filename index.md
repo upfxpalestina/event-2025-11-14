@@ -6,13 +6,15 @@
 **Ciutadella Campus**<br>
 **Universitat Pompeu Fabra**
 
+_**The event will also be livestreamed on this webpage**_
+
 _Gaza: The Story of a Genocide_ is an urgent and powerful collection of personal testimony, poetry, art, and frontline reportage. Together, these works bear witness to the vast and ongoing destruction in­flicted on the Palestinian people&mdash;their lives, their land, and their future.
 
 Ahmed Alnaouq recounts the devastating loss of twenty-one family members. Noor Alyacoubi offers a searing reflection on starvation. Mariam Barghouti examines the brutality of Israeli settler violence in the West Bank, while Ahmed’s poem “To Khalid” evokes the assassination of his “brother” following an Israeli strike. These voices, among many others, illuminate the endur­ing psychological, physical, and generational toll of state violence. 
 
 Joining us for this book launch will be the editor, writer, journalist and activist Fatima Bhutto, along with two of the chapter authors: journalist and human rights activist Ahmed Alnaouq, and writer poet and director Ahmed Masoud.  
 
-Hosted by the [UPF in Solidarity with Palestine collective](https://upfxpalestina.github.io), the [Red Universitaria por Palestina (RUxP)](https://www.redxpalestina.org), and the [UPF Faculty of Political and Social Sciences](https://www.upf.edu/en/web/politiques/home).
+Hosted by the [UPF in Solidarity with Palestine collective](https://upfxpalestina.github.io) and the [Red Universitaria por Palestina (RUxP)](https://www.redxpalestina.org), with support from [UPF](https://www.upf.edu) and the UPF [Faculty of Political and Social Sciences](https://www.upf.edu/en/web/politiques/home).
 
 Directions to the building: [https://www.upf.edu/en/web/campus/merce-rodoreda](https://www.upf.edu/en/web/campus/merce-rodoreda)<br>
 

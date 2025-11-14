@@ -62,8 +62,32 @@
 <strong>Ciutadella Campus</strong><br />
 <strong>Universitat Pompeu Fabra</strong></p>
 
-<p><em><strong>The event will also be livestreamed on this webpage</strong></em></p>
 
+<script src="https://player.live-video.net/1.45.0/amazon-ivs-player.min.js"></script>
+<video id="video-player-173292965" controls playsinline poster="https://www.upf.edu/documents/263762528/263781427/256340757/1830c126-1df3-eda6-6a9d-17a8abc4f50c?t=1669412726331"></video>
+<style type="text/css">
+    video#video-player-173292965 {
+      position: relative;
+      display: block;
+      width: 100%;
+      margin-bottom: 2em;
+  }
+  @media (max-width: 978px) {
+   video#video-player-173292965 {
+      display: block !important;
+      }    
+    }
+  </style>
+<script>
+  if (IVSPlayer.isPlayerSupported) {
+    const player = IVSPlayer.create();
+    player.attachHTMLVideoElement(document.getElementById('video-player-173292965'));
+    player.load("https://93abe405d1f7.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.462481490347.channel.AwkdzIZq2YA2.m3u8");
+    player.play();
+  }
+</script>
+
+			
 <p><em>Gaza: The Story of a Genocide</em> is an urgent and powerful collection of personal testimony, poetry, art, and frontline reportage. Together, these works bear witness to the vast and ongoing destruction in­flicted on the Palestinian people—their lives, their land, and their future.</p>
 
 <p>Ahmed Alnaouq recounts the devastating loss of twenty-one family members. Noor Alyacoubi offers a searing reflection on starvation. Mariam Barghouti examines the brutality of Israeli settler violence in the West Bank, while Ahmed’s poem “To Khalid” evokes the assassination of his “brother” following an Israeli strike. These voices, among many others, illuminate the endur­ing psychological, physical, and generational toll of state violence.</p>

@@ -6,8 +6,6 @@
 **Ciutadella Campus**<br>
 **Universitat Pompeu Fabra**
 
-_**The event will also be livestreamed on this webpage**_
-
 _Gaza: The Story of a Genocide_ is an urgent and powerful collection of personal testimony, poetry, art, and frontline reportage. Together, these works bear witness to the vast and ongoing destruction in­flicted on the Palestinian people&mdash;their lives, their land, and their future.
 
 Ahmed Alnaouq recounts the devastating loss of twenty-one family members. Noor Alyacoubi offers a searing reflection on starvation. Mariam Barghouti examines the brutality of Israeli settler violence in the West Bank, while Ahmed’s poem “To Khalid” evokes the assassination of his “brother” following an Israeli strike. These voices, among many others, illuminate the endur­ing psychological, physical, and generational toll of state violence. 
